@@ -7,8 +7,12 @@ function App() {
   return (
     <div className="App">
      <Mehdi />
+
+     hello mehdi
+
      <Rafik />
      <p>conflicts</p>
+
     </div>
   );
 }
